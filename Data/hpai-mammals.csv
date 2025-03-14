@@ -1,0 +1,494 @@
+State,County,Outbreak Date,HPAI Strain,Species
+Oregon,Multnomah,2/10/2025,EA H5N1,Domestic cat
+Montana,Flathead,2/10/2025,EA/AM H5N1,Domestic cat
+California,San Mateo,2/5/2025,EA H5,Domestic cat
+Colorado,Douglas,1/31/2025,EA H5N1,Domestic cat
+California,Contra Costa,1/24/2025,EA H5,Domestic cat
+Florida,Brevard,1/24/2025,EA H5,Bottlenose dolphin
+Florida,Brevard,1/24/2025,EA H5,Bottlenose dolphin
+Delaware,New Castle,1/23/2025,EA H5,Red fox
+Pennsylvania,Lehigh,1/23/2025,EA H5,Red fox
+South Dakota,Faulk,1/23/2025,EA H5,Domestic cat
+South Dakota,Faulk,1/23/2025,EA H5,Domestic cat
+New York,Albany,1/21/2025,EA H5,Eastern gray squirrel
+Oregon,Washington,1/17/2025,EA H5,Domestic cat
+California,Los Angeles,1/15/2025,EA H5N1,Domestic cat
+California,Los Angeles,1/15/2025,EA H5N1,Domestic cat
+Kansas,Pottawatomie,1/14/2025,EA H5,Domestic cat
+Louisiana,Orleans,1/14/2025,EA H5N1,Domestic cat
+Illinois,Cook,1/14/2025,EA H5,Harbor seal
+Michigan,Kent,1/13/2025,EA H5N1,Serval
+Iowa,Hamilton,1/13/2025,EA H5,Domestic cat
+South Dakota,Lake,1/13/2025,EA H5,Domestic cat
+Oregon,Clackamas,1/13/2025,EA H5,House mouse
+Washington,Franklin,1/10/2025,EA H5,Deer mouse
+Washington,Franklin,1/10/2025,EA H5,House mouse
+Washington,Franklin,1/10/2025,EA H5,Deer mouse
+Washington,Franklin,1/10/2025,EA H5,Deer mouse
+Washington,Franklin,1/10/2025,EA H5,House mouse
+Nebraska,Morrill,1/6/2025,EA/AM H5N1,Mountain lion
+California,Los Angeles,1/3/2025,EA/AM H5N1,Domestic cat
+California,Los Angeles,1/3/2025,EA/AM H5N1,Domestic cat
+California,Los Angeles,1/3/2025,EA/AM H5N1,Domestic cat
+Colorado,Adams,1/3/2025,EA/AM H5N1,Domestic cat
+Colorado,Kit Carson,1/3/2025,EA/AM H5N1,Domestic cat
+California,Los Angeles,1/3/2025,EA/AM H5N1,Domestic cat
+California,Los Angeles,1/3/2025,EA/AM H5N1,Domestic cat
+Minnesota,Cottonwood,1/2/2025,EA/AM H5N1,Domestic cat
+California,Santa Barbara,1/2/2025,EA/AM H5N1,Domestic cat
+California,Santa Barbara,1/2/2025,EA/AM H5N1,Domestic cat
+South Dakota,Brookings,12/31/2024,EA H5,Domestic cat
+California,Los Angeles,12/31/2024,EA H5N1,Domestic cat
+California,Los Angeles,12/31/2024,EA H5N1,Domestic cat
+Alaska,Juneau,12/30/2024,EA H5,Ermine
+Colorado,Larimer,12/30/2024,EA H5,Bobcat
+Nevada,Carson City,12/30/2024,EA H5N1,Mountain lion
+California,Los Angeles,12/27/2024,EA/AM H5N1,Domestic cat
+Colorado,Denver,12/26/2024,EA H5N1,Tiger
+Colorado,Denver,12/26/2024,EA H5,African lion
+Colorado,Denver,12/26/2024,EA H5N1,Fox
+Washington,Mason,12/24/2024,EA H5N1,Serval
+Florida,Brevard,12/23/2024,EA H5N1,Bottlenose dolphin
+Florida,Brevard,12/23/2024,EA H5N1,Bottlenose dolphin
+California,Los Angeles,12/23/2024,EA H5N1,Domestic cat
+California,Sacramento,12/23/2024,EA H5N1,Serval
+Colorado,Denver,12/23/2024,EA H5N1,Mountain lion
+Oregon,Washington,12/19/2024,EA H5N1,Domestic cat
+Colorado,Denver,12/19/2024,EA H5N1,Tiger
+Minnesota,Morrison,12/18/2024,EA H5N1,Domestic cat
+California,Sacramento,12/18/2024,EA/AM H5N1,Bengal tiger
+Washington,Clallam,12/18/2024,EA H5,Mountain lion
+California,Fresno,12/17/2024,EA H5N1,Domestic cat
+Washington,Mason,12/16/2024,EA H5N1,Bobcat
+Washington,Mason,12/16/2024,EA H5N1,Serval
+Washington,Mason,12/16/2024,EA H5N1,Savannah cat
+Washington,Mason,12/16/2024,EA H5N1,Canada lynx
+Washington,Mason,12/16/2024,EA H5N1,Hybrid tiger (Panthera)
+Washington,Mason,12/16/2024,EA H5N1,Mountain lion
+Washington,Mason,12/16/2024,EA H5N1,Mountain lion
+Washington,Mason,12/16/2024,EA H5N1,Serval
+Washington,Mason,12/16/2024,EA H5N1,Bobcat
+Washington,Mason,12/16/2024,EA H5N1,Geoffroy's cat
+Washington,Mason,12/16/2024,EA H5N1,Serval
+Washington,Mason,12/16/2024,EA H5N1,Serval
+Washington,Mason,12/16/2024,EA H5N1,Eurasian lynx
+Utah,Cache,12/13/2024,EA H5,House mouse
+Utah,Cache,12/13/2024,EA/AM H5N1,Domestic cat
+Arizona,Maricopa,12/12/2024,EA H5,Mountain lion
+Massachusetts,Essex,12/11/2024,EA/AM H5N1,Harbor seal
+Washington,King,12/10/2024,EA H5,Raccoon
+Idaho,Ada,12/10/2024,EA/AM H5N1,Amur tiger
+California,San Bernardino,12/10/2024,EA H5N1,Domestic cat
+Washington,Clallam,12/6/2024,EA H5,Mountain lion
+Washington,Franklin,12/6/2024,EA H5,Coyote
+Montana,Powell,12/6/2024,EA/AM H5N1,Mountain lion
+Washington,Franklin,12/5/2024,EA H5,House mouse
+Washington,Mason,12/4/2024,EA H5N1,Mountain lion
+Washington,Mason,12/4/2024,EA/AM H5N1,Mountain lion
+California,Tulare,12/3/2024,EA H5N1,Domestic cat
+Alaska,North Slope,12/2/2024,EA H5N1,Polar bear
+Alaska,North Slope,10/7/2024,EA H5,Red fox
+Florida,Brevard,10/7/2024,EA H5N1,Bottlenose dolphin
+Florida,Brevard,10/7/2024,EA H5N1,Bottlenose dolphin
+Florida,Brevard,10/7/2024,EA H5N1,Bottlenose dolphin
+Alaska,North Slope,10/3/2024,EA H5N1,Red fox
+Utah,Washington,8/20/2024,EA H5N1,Striped skunk
+Utah,Washington,8/20/2024,EA H5N1,Striped skunk
+Utah,Washington,8/20/2024,EA H5N1,Striped skunk
+Utah,Washington,8/20/2024,EA H5N1,Striped skunk
+Montana,McCone,8/20/2024,EA/AM H5N1,Striped skunk
+Missouri,St Charles,8/9/2024,EA H5,Red fox
+Colorado,Larimer,7/29/2024,EA H5N1,Domestic cat
+Colorado,Weld,7/23/2024,EA H5N1,House mouse
+Colorado,Weld,7/23/2024,EA H5N1,House mouse
+Colorado,Weld,7/23/2024,EA H5N1,House mouse
+Colorado,Weld,7/23/2024,EA H5N1,House mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/23/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/22/2024,EA H5N1,Prairie vole
+Colorado,Weld,7/22/2024,EA H5N1,House mouse
+Colorado,Weld,7/22/2024,EA H5N1,House mouse
+Colorado,Weld,7/22/2024,EA H5N1,House mouse
+Colorado,Weld,7/22/2024,EA H5N1,House mouse
+Colorado,Weld,7/22/2024,EA H5N1,Deer mouse
+Colorado,Weld,7/22/2024,EA H5N1,Desert cottontail
+Colorado,Larimer,7/22/2024,EA H5N1,Domestic cat
+Colorado,Larimer,7/22/2024,EA H5N1,Domestic cat
+Colorado,Larimer,7/22/2024,EA H5N1,Domestic cat
+New York,Erie,7/16/2024,EA H5N1,Red fox
+New York,Tompkins,7/10/2024,EA H5N1,Red fox
+Iowa,Sioux,7/8/2024,EA H5N1,Raccoon
+Michigan,Ottawa,7/5/2024,EA/AM H5N1,Domestic cat
+Michigan,Ottawa,7/5/2024,EA/AM H5N1,Raccoon
+Minnesota,Sibley,6/27/2024,EA H5N1,Domestic cat
+Minnesota,Sibley,6/27/2024,EA H5,Domestic cat
+Colorado,Adams,6/24/2024,EA H5N1,Domestic cat
+Minnesota,Kandiyohi,6/21/2024,EA H5N1,Domestic cat
+Minnesota,Washington,6/21/2024,EA H5N1,Red fox
+Colorado,Morgan,6/6/2024,EA H5N1,Domestic cat
+New Mexico,Roosevelt,6/5/2024,EA H5N1,House mouse
+Michigan,Ionia,6/4/2024,EA/AM H5N1,Domestic cat
+Michigan,Clinton,6/3/2024,EA H5N1,Domestic cat
+Idaho,Jerome,6/3/2024,EA H5N1,Domestic cat
+New Mexico,Roosevelt,6/3/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,6/3/2024,EA/AM H5N1,Red fox
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/31/2024,EA H5N1,House mouse
+Michigan,Isabella,5/28/2024,EA/AM H5N1,Raccoon
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+New Mexico,Roosevelt,5/24/2024,EA H5N1,House mouse
+Michigan,Clinton,5/23/2024,EA H5N1,Domestic cat
+New Mexico,Roosevelt,5/21/2024,EA H5N1,Striped skunk
+Colorado,Washington,5/21/2024,EA H5N1,Raccoon
+New Mexico,Curry,5/17/2024,EA/AM H5N1,Domestic cat
+New Mexico,Curry,5/17/2024,EA/AM H5N1,Domestic cat
+Michigan,Ottawa,5/17/2024,EA/AM H5N1,Domestic cat
+Michigan,Ottawa,5/17/2024,EA/AM H5N1,Domestic cat
+New Mexico,Curry,5/8/2024,EA/AM H5N1,Raccoon
+Texas,Hartley,5/7/2024,EA/AM H5N1,Domestic cat
+Texas,Hartley,5/7/2024,EA/AM H5N1,Domestic cat
+Texas,Hartley,5/7/2024,EA/AM H5N1,Domestic cat
+New York,Onondaga,5/3/2024,EA/AM H5N1,Red fox
+Michigan,Ionia,5/3/2024,EA H5N1,Red fox
+Michigan,Ionia,5/3/2024,EA H5N1,Red fox
+Michigan,Ionia,5/3/2024,EA H5N1,Red fox
+Michigan,Ionia,5/3/2024,EA H5N1,Red fox
+Michigan,Ionia,5/3/2024,EA H5N1,Red fox
+Michigan,Ionia,5/2/2024,EA/AM H5N1,Domestic cat
+South Dakota,Campbell,4/30/2024,EA/AM H5N1,Domestic cat
+South Dakota,Campbell,4/30/2024,EA/AM H5N1,Domestic cat
+New York,Chenango,4/26/2024,EA/AM H5N1,Bobcat
+Montana,Yellowstone,4/26/2024,EA/AM H5N1,Domestic cat
+Michigan,Ionia,4/26/2024,EA/AM H5N1,Virginia opossum
+Michigan,Ionia,4/26/2024,EA H5N1,Virginia opossum
+Michigan,Isabella,4/24/2024,EA H5N1,Domestic cat
+California,Sacramento,4/19/2024,EA H5N1,Skunk (unidentified)
+Oklahoma,Harmon,4/17/2024,EA/AM H5N1,Domestic cat
+New Mexico,Curry,4/15/2024,EA H5N1,Domestic cat
+New Mexico,Curry,4/15/2024,EA H5N1,Domestic cat
+Ohio,Wood,4/15/2024,EA H5N1,Domestic cat
+New Mexico,Curry,4/15/2024,EA H5N1,Domestic cat
+Vermont,Addison,4/12/2024,EA H5N1,Bobcat
+New York,Greene,4/3/2024,EA H5N1,Raccoon
+Missouri,Jackson,4/3/2024,EA H5N1,Red fox
+Kentucky,Bourbon,4/3/2024,EA H5N1,American mink
+New Mexico,Curry,4/1/2024,EA/AM H5N1,Domestic cat
+New Mexico,Curry,4/1/2024,EA/AM H5N1,Domestic cat
+Texas,Hartley,3/25/2024,EA/AM H5N1,Domestic cat
+Texas,Hartley,3/25/2024,EA/AM H5N1,Domestic cat
+Texas,Hale,3/25/2024,EA/AM H5N1,Domestic cat
+Texas,Hale,3/25/2024,EA/AM H5N1,Domestic cat
+Washington,King,3/19/2024,EA H5N1,Bobcat
+Idaho,Ada,3/13/2024,EA/AM H5N1,Striped skunk
+Washington,Stevens,3/4/2024,EA H5N1,Striped skunk
+Washington,Stevens,3/4/2024,EA H5N1,Striped skunk
+Washington,Stevens,3/4/2024,EA H5N1,Striped skunk
+New Mexico,Bernalillo,3/1/2024,EA/AM H5N1,Striped skunk
+Montana,Granite,2/27/2024,EA H5N1,Mountain lion
+Montana,Yellowstone,2/12/2024,EA/AM H5N1,Domestic cat
+Montana,Treasure,2/12/2024,EA H5N1,Domestic cat
+Montana,Sanders,2/12/2024,EA H5N1,Domestic cat
+Kentucky,Taylor,1/25/2024,EA H5N1,Raccoon
+Wyoming,Teton,12/22/2023,EA/AM H5N1,Mountain lion
+Kentucky,Carter,12/15/2023,EA/AM H5N1,Raccoon
+Arizona,Navajo,12/13/2023,EA/AM H5N1,Abert's squirrel
+Alaska,North Slope,12/6/2023,EA H5N1,Polar bear
+Montana,Missoula,11/28/2023,EA/AM H5N1,Domestic cat
+South Dakota,Jerauld,11/14/2023,EA H5N1,Domestic cat
+South Dakota,Jerauld,11/14/2023,EA H5N1,Domestic cat
+South Dakota,Jerauld,11/14/2023,EA H5N1,Domestic cat
+South Dakota,Jerauld,11/14/2023,EA H5N1,Domestic cat
+South Dakota,Jerauld,11/14/2023,EA H5N1,Domestic cat
+South Dakota,Jerauld,11/14/2023,EA H5N1,Domestic cat
+Washington,Jefferson,9/19/2023,EA H5N1,Harbor seal
+Washington,Jefferson,9/15/2023,EA/AM H5N1,Harbor seal
+Washington,Jefferson,9/5/2023,EA/AM H5N1,Harbor seal
+Washington,Jefferson,9/5/2023,EA/AM H5N1,Harbor seal
+Washington,Jefferson,9/5/2023,EA/AM H5N1,Harbor seal
+Montana,Mineral,8/4/2023,EA/AM H5N1,Mountain lion
+Pennsylvania,Huntingdon,7/17/2023,EA/AM H5N1,Red fox
+Pennsylvania,Huntingdon,6/30/2023,EA/AM H5N1,Red fox
+Michigan,Alpena,6/12/2023,EA H5N1,Red fox
+Maine,York,6/9/2023,EA/AM H5N1,Red fox
+California,Trinity,6/2/2023,EA H5N1,Fisher
+California,El Dorado,6/2/2023,EA/AM H5N1,Raccoon
+California,El Dorado,6/2/2023,EA/AM H5N1,Raccoon
+California,El Dorado,6/2/2023,EA/AM H5N1,Raccoon
+Minnesota,Cass,5/23/2023,EA/AM H5N1,American black bear
+California,Mariposa,5/23/2023,EA/AM H5N1,Fisher
+New York,Erie,5/19/2023,EA/AM H5N1,Red fox
+California,El Dorado,5/18/2023,EA/AM H5N1,Raccoon
+Utah,Salt Lake,5/17/2023,EA/AM H5N1,Mountain lion
+Pennsylvania,Northampton,5/16/2023,EA/AM H5N1,Red Fox
+New York,Wayne,5/16/2023,EA/AM H5N1,Red Fox
+Oregon,Wallowa,5/15/2023,EA/AM H5N1,Red Fox
+Maine,York,5/15/2023,EA/AM H5N1,Red Fox
+Colorado,Routt,5/11/2023,EA/AM H5N1,Striped skunk
+New York,Cayuga,5/9/2023,EA/AM H5N1,Red fox
+California,Butte,5/8/2023,EA/AM H5N1,Mountain lion
+Wyoming,Goshen,5/5/2023,EA H5N1,Mountain lion
+Nebraska,Rock,5/3/2023,EA/AM H5N1,Mountain lion
+Rhode Island,Washington,5/2/2023,EA/AM H5N1,Red Fox
+New York,Wayne,4/25/2023,EA/AM H5N1,Red fox
+New York,Monroe,4/25/2023,EA H5N1,Red fox
+New York,Tompkins,4/25/2023,EA/AM H5N1,Red fox
+New York,Tompkins,4/24/2023,EA/AM H5N1,Virginia opossum
+Montana,Rosebud,4/20/2023,EA/AM H5N1,Striped skunk
+Montana,Madison,4/20/2023,EA/AM H5N1,Mountain lion
+California,Modoc,4/14/2023,EA/AM H5N1,Mountain lion
+California,Modoc,4/14/2023,EA/AM H5N1,Mountain lion
+California,Modoc,4/14/2023,EA/AM H5N1,Mountain lion
+Wisconsin,Dane,4/13/2023,EA/AM H5N1,Red fox
+New York,Cattaraugus,4/13/2023,EA/AM H5N1,Red fox
+New York,Tompkins,4/13/2023,EA/AM H5N1,Red fox
+New York,Tompkins,4/11/2023,EA/AM H5N1,Red fox
+Minnesota,Hennepin,4/11/2023,EA H5N1,Red fox
+Pennsylvania,Huntingdon,4/10/2023,EA/AM H5N1,Red fox
+Pennsylvania,Huntingdon,4/10/2023,EA/AM H5N1,Red fox
+Pennsylvania,Huntingdon,4/10/2023,EA/AM H5N1,Red fox
+Colorado,Boulder,4/7/2023,EA H5N1,Red fox
+Colorado,Boulder,4/7/2023,EA H5N1,Red fox
+Wyoming,Teton,4/4/2023,EA H5N1,Mountain lion
+New Mexico,San Juan,4/4/2023,EA/AM H5N1,Striped skunk
+Colorado,Chaffee,4/4/2023,EA H5N1,Striped skunk
+Nebraska,Buffalo,4/3/2023,EA/AM H5N1,Domestic cat
+New Mexico,Valencia,3/31/2023,EA/AM H5N1,Striped skunk
+Wyoming,Hot Springs,3/30/2023,EA/AM H5N1,Domestic cat
+Oregon,Douglas,3/27/2023,EA H5N1,American marten
+Montana,Gallatin,3/23/2023,EA/AM H5N1,Striped skunk
+California,Mono,3/21/2023,EA/AM H5N1,Mountain lion
+California,Mono,3/21/2023,EA/AM H5N1,Mountain lion
+Alaska,Matanuska-Sustina,3/21/2023,EA H5N1,Red fox
+Montana,Park,3/17/2023,EA H5N1,Striped skunk
+Texas,Carson,3/15/2023,EA/AM H5N1,Striped skunk
+Colorado,Larimer,3/15/2023,EA H5N1,Striped skunk
+Montana,Custer,3/13/2023,EA/AM H5N1,Striped skunk
+Montana,Custer,3/13/2023,EA/AM H5N1,Striped skunk
+Montana,Lake,3/8/2023,EA/AM H5N1,Raccoon
+Kansas,Lincoln,3/8/2023,EA/AM H5N1,Striped skunk
+Wyoming,Big Horn,3/3/2023,EA/AM H5N1,Mountain lion
+Utah,Salt Lake,3/2/2023,EA H5N1,Mountain lion
+New York,Tompkins,3/2/2023,EA/AM H5N1,Striped skunk
+Colorado,Larimer,3/2/2023,EA H5N1,Striped skunk
+Wyoming,Natrona,2/28/2023,EA/AM H5N1,Mountain lion
+Wisconsin,Winnebago,2/28/2023,EA/AM H5N1,North American river otter
+Colorado,Larimer,2/28/2023,EA H5N1,Striped skunk
+Colorado,Larimer,2/28/2023,EA/AM H5N1,Striped skunk
+Colorado,Larimer,2/28/2023,EA/AM H5N1,Striped skunk
+Wyoming,Big Horn,2/23/2023,EA/AM H5N1,Mountain lion
+Colorado,Jefferson,2/23/2023,EA/AM H5N1,Bobcat
+Colorado,Grand,2/23/2023,EA/AM H5N1,Mountain lion
+Montana,Sanders,2/22/2023,EA H5N1,Raccoon
+Kansas,Rawlins,2/14/2023,EA/AM H5N1,Striped skunk
+Colorado,El Paso,2/14/2023,EA H5N1,Bobcat
+Colorado,Alamosa,2/10/2023,EA/AM H5N1,Red fox
+Colorado,Pueblo,2/10/2023,EA/AM H5N1,Red fox
+Colorado,Boulder,2/10/2023,EA/AM H5N1,Mountain lion
+Colorado,Gunnison,2/10/2023,EA/AM H5N1,Mountain lion
+Colorado,Huerfano,2/8/2023,EA/AM H5N1,American black bear
+Colorado,Gunnison,2/8/2023,EA/AM H5N1,Mountain lion
+North Carolina,Hyde,2/6/2023,EA H5N1,American black bear
+Oregon,Crook,2/1/2023,EA/AM H5N1,Striped skunk
+Oregon,Crook,2/1/2023,EA H5N1,Striped skunk
+Nebraska,Madison,1/27/2023,EA H5N1,Domestic cat
+Wyoming,Hot Springs,1/27/2023,EA/AM H5N1,Red fox
+California,Butte,1/24/2023,EA/AM H5N1,Bobcat
+Wisconsin,Dane,1/23/2023,EA H5N1,Red fox
+Washington,Spokane,1/23/2023,EA H5N1,Bobcat
+Idaho,Madison,1/20/2023,EA H5N1,Red fox
+Nebraska,Madison,1/13/2023,EA H5N1,Domestic cat
+South Dakota,Spink,1/9/2023,EA/AM H5N1,Red fox
+Oregon,Linn,1/3/2023,EA/AM H5N1,Domestic cat
+Oregon,Curry,1/3/2023,EA H5N1,Raccoon
+Nebraska,Scotts Bluff,1/3/2023,EA/AM H5N1,Amur tiger
+Nebraska,Scotts Bluff,1/3/2023,EA/AM H5N1,Mountain lion
+Oregon,Linn,12/23/2022,EA/AM H5N1,Domestic cat
+Montana,Cascade,12/20/2022,EA H5N1,Striped skunk
+Montana,Flathead,12/20/2022,EA/AM H5N1,Grizzly bear
+Washington,Island,12/16/2022,EA H5N1,Raccoon
+Nebraska,Scotts Bluff,12/16/2022,EA/AM H5N1,Grizzly bear
+Oregon,Columbia,12/8/2022,EA/AM H5N1,Skunk (unidentified)
+Oregon,Columbia,12/8/2022,EA/AM H5N1,Skunk (unidentified)
+Oregon,Columbia,12/8/2022,EA/AM H5N1,Skunk (unidentified)
+Oregon,Columbia,12/8/2022,EA/AM H5N1,Skunk (unidentified)
+Montana,Teton,12/6/2022,EA/AM H5N1,Grizzly bear
+Alaska,Kodiak Island,12/6/2022,EA H5N1,Kodiak bear
+Montana,Madison,12/2/2022,EA H5N1,Red fox
+Wisconsin,Douglas,11/21/2022,EA/AM H5N1,Striped skunk
+Wisconsin,Douglas,11/21/2022,EA/AM H5N1,Striped skunk
+Idaho,Jefferson,11/21/2022,EA H5N1,Striped skunk
+Idaho,Jefferson,11/21/2022,EA H5N1,Striped skunk
+Idaho,Jefferson,11/21/2022,EA H5N1,Striped skunk
+Alaska,Hoonah-Angoon,11/16/2022,EA/AM H5N1,American black bear
+Colorado,Weld,11/10/2022,EA H5N1,Striped skunk
+Minnesota,Itasca,11/3/2022,EA/AM H5N1,Striped skunk
+Montana,Gallatin,10/28/2022,EA H5N1,Skunk (unidentified)
+New York,Tompkins,10/27/2022,EA H5N1,Red Fox
+Illinois,Cook,10/26/2022,EA/AM H5N1,Virginia opossum
+New York,Cayuga,10/6/2022,EA/AM H5N1,Red Fox
+New York,Cayuga,10/6/2022,EA/AM H5N1,Red Fox
+New York,Cayuga,10/6/2022,EA/AM H5N1,Red Fox
+New York,Cayuga,10/6/2022,EA/AM H5N1,Red Fox
+New York,Albany,9/27/2022,EA H5N1,Amur Leopard
+Florida,Dixie,8/17/2022,EA/AM H5N1,Bottlenose dolphin
+Maine,York,8/15/2022,EA H5N1,Harbor seal
+Idaho,Ada,8/3/2022,EA H5N1,Skunk (unidentified)
+Maine,Sagadahoc,7/25/2022,EA H5N1,Harbor seal
+Maine,Cumberland,7/25/2022,EA H5N1,Harbor seal
+Maine,Cumberland,7/25/2022,EA H5N1,Harbor seal
+Maine,York,7/25/2022,EA H5N1,Harbor seal
+Maine,Cumberland,7/25/2022,EA H5N1,Harbor seal
+Maine,York,7/25/2022,EA H5N1,Harbor seal
+Michigan,Bay,7/18/2022,EA H5N1,Red fox
+Maine,Cumberland,7/11/2022,EA H5N1,Harbor seal
+Maine,Cumberland,7/11/2022,EA H5N1,Harbor seal
+Maine,Sagadahoc,7/11/2022,EA H5N1,Grey seal
+Maine,Cumberland,7/11/2022,EA H5N1,Harbor seal
+Maine,Lincoln,7/11/2022,EA H5N1,Harbor seal
+Maine,Cumberland,7/11/2022,EA H5N1,Harbor seal
+Alaska,Nome Census Area,7/7/2022,EA/AM H5N1,Red fox
+Washington,Stevens,7/6/2022,EA/AM H5N1,Raccoon
+Maine,York,7/1/2022,EA H5N1,Harbor seal
+Maine,Cumberland,7/1/2022,EA H5N1,Harbor seal
+Maine,Sagadahoc,7/1/2022,EA H5N1,Harbor seal
+Maine,Lincoln,7/1/2022,EA H5N1,Harbor seal
+Wisconsin,St Croix,6/29/2022,EA H5N1,Fisher
+Michigan,Chippewa,6/24/2022,EA H5N1,Red fox
+Michigan,Iron,6/24/2022,EA H5N1,Raccoon
+Idaho,Adams,6/22/2022,EA H5N1,Striped skunk
+Idaho,Adams,6/22/2022,EA H5N1,Striped skunk
+Idaho,Latah,6/21/2022,EA H5N1,Striped skunk
+Michigan,Wexford,6/17/2022,EA H5N1,Coyote
+Michigan,Gladwin,6/17/2022,EA H5N1,Red fox
+Michigan,Bay,6/17/2022,EA H5N1,Red fox
+Michigan,Muskegon,6/17/2022,EA H5N1,Red fox
+Washington,Franklin,6/14/2022,EA H5N1,Raccoon
+Washington,Franklin,6/14/2022,EA H5N1,Raccoon
+Washington,Franklin,6/14/2022,EA H5N1,Raccoon
+Washington,Franklin,6/14/2022,EA H5N1,Raccoon
+Michigan,Osceola,6/9/2022,EA H5N1,Red fox
+Michigan,Midland,6/9/2022,EA H5N1,Red fox
+Michigan,Midland,6/9/2022,EA H5N1,Red fox
+Michigan,Otsego,6/9/2022,EA H5N1,Red fox
+Utah,Salt Lake,6/8/2022,EA H5N1,Red fox
+North Dakota,Burleigh,6/8/2022,EA H5N1,Red fox
+Michigan,Osceola,6/7/2022,EA H5N1,Red fox
+Minnesota,Scott,6/3/2022,EA H5N1,Red fox
+North Dakota,Dickey,6/2/2022,EA/AM H5N1,Red fox
+North Dakota,Dickey,6/2/2022,EA H5N1,Red fox
+Iowa,Buchanan,5/31/2022,EA H5N1,Virginia opossum
+Iowa,Buchanan,5/31/2022,EA H5N1,Virginia opossum
+New York,Erie,5/27/2022,EA H5N1,Red fox
+Minnesota,Stearns,5/27/2022,EA H5N1,Red fox
+Minnesota,Itasca,5/27/2022,EA H5N1,Red fox
+Alaska,Aleutians West,5/25/2022,EA H5N1,Red fox
+Wisconsin,Lincoln,5/24/2022,EA H5N1,Bobcat
+Wisconsin,Lincoln,5/24/2022,EA H5N1,Bobcat
+New York,Niagara,5/19/2022,EA H5N1,Red fox
+Iowa,Cedar,5/18/2022,EA H5N1,Red fox
+New York,Tompkins,5/16/2022,EA H5N1,Red fox
+New York,St Lawrence,5/16/2022,EA H5N1,Red fox
+New York,St Lawrence,5/16/2022,EA H5N1,Red fox
+New York,Erie,5/16/2022,EA H5N1,Red fox
+New York,Erie,5/16/2022,EA H5N1,Red fox
+Wisconsin,Jefferson,5/13/2022,EA H5N1,Red fox
+Wisconsin,Dane,5/13/2022,EA H5N1,Red fox
+Wisconsin,Rock,5/13/2022,EA H5N1,Red fox
+Wisconsin,Adams,5/13/2022,EA H5N1,Red fox
+Wisconsin,Adams,5/13/2022,EA H5N1,Red fox
+Wisconsin,Grant,5/13/2022,EA H5N1,Red fox
+Wisconsin,Grant,5/13/2022,EA H5N1,Red fox
+Minnesota,Hennepin,5/12/2022,EA H5N1,Red fox
+Minnesota,Dakota,5/12/2022,EA H5N1,Red fox
+Minnesota,Washington,5/12/2022,EA H5N1,Red fox
+Minnesota,Hennepin,5/12/2022,EA H5N1,Red fox
+Michigan,Macomb,5/11/2022,EA H5N1,Red fox
+Michigan,Macomb,5/11/2022,EA H5N1,Red fox
+Michigan,St Clair,5/11/2022,EA H5N1,Red fox
+Michigan,Lapeer,5/11/2022,EA H5N1,Red fox
+Iowa,Hancock,5/11/2022,EA/AM H5N1,Red fox
+Minnesota,Anoka,5/10/2022,EA H5N1,Red fox
+Wisconsin,Jefferson,5/6/2022,EA H5N1,Red fox
+Wisconsin,Jefferson,5/6/2022,EA H5N1,Red fox
+Wisconsin,Dane,5/6/2022,EA H5N1,Red fox
+Wisconsin,Rock,5/5/2022,EA H5N1,Red fox
+Wisconsin,Waushara,5/5/2022,EA H5N1,Red fox
